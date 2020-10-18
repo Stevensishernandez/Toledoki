@@ -512,7 +512,7 @@ a {
     background: #fff;
 }
 .pozo-start-header.scroll-on .navbar-brand img {
-    height: 50px;
+    height: 90px;
     -webkit-transition: all 0.3s ease-out;
     transition: all 0.3s ease-out;
 }
@@ -529,8 +529,8 @@ a {
     padding: 0;
 }
 .navbar-brand img {
-    height: 55px;
-    width: auto;
+    height: 80px;
+    width: 100%;
     display: block;
     -webkit-transition: all 0.3s ease-out;
     transition: all 0.3s ease-out;
