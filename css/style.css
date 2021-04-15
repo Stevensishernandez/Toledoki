@@ -919,6 +919,11 @@ figure {
   font-size: 60px;
 }
 
+#footer h4 {
+  color: #fff;
+  font-size: 20px;
+}
+
 .btn {
   text-transform: uppercase;
   letter-spacing: 2px;
